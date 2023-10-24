@@ -1,2 +1,2 @@
 # Sub_sample-convert
-Rstudio script to sub-sample a data set and convert a csv to genepop file
+Rstudio script to sub-sample (10 times) a data set and convert multiple csv to genepop files
